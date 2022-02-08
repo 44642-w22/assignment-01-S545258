@@ -6,7 +6,7 @@ public class Problem09 {
 		// TODO Auto-generated method stub
 		Queue<Integer> q1 = new LinkedList<Integer>();
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("Enter the elements");
+		System.out.println("Enter the size of queue");
 		int size = scanner.nextInt();
 		for (int i=0;i<size;i++)
 		{
